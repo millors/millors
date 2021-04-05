@@ -1,8 +1,8 @@
 Olá! Meu nome é Millôr!
 
-Sou engenheiro de formação e social media/designer de atuação. 
+Sou engenheiro químico de formação e designer/social media de atuação. 
 
-Migrando para UX e começando a me aventurar em programação.
+Estou migrando para UX e começando a me aventurar em programação.
 
 Atualmente aprendendo HTML, CSS e Javascript.
 
