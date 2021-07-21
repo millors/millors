@@ -4,7 +4,7 @@ Sou engenheiro químico de formação e designer/social media de atuação.
 
 Estou migrando para UX e começando a me aventurar em programação.
 
-Atualmente aprendendo HTML, CSS e Javascript.
+Atualmente aprendendo PostgreSQL e Metodologias ágeis.
 
 Se quiser mandar um alô:
   <div>
